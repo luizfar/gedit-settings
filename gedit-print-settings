@@ -1,0 +1,18 @@
+
+[Print Settings]
+print-at=now
+reverse=false
+scale=100
+cups-job-priority=50
+number-up=1
+cups-Quality=FromPrintoutMode
+page-set=all
+collate=false
+cups-job-sheets=none,none
+cover-before=none
+cover-after=none
+printer=psc-1310-series-
+print-pages=all
+cups-number-up=1
+print-at-time=
+cups-PrintoutMode=Normal
